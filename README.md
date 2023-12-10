@@ -21,30 +21,29 @@ And type localhost:8080/FitnessApp it would start showing page to you.
 # Adding a Trainer   
 
 Click the "Add Trainer" button.
-![Screenshot (431)](https://github.com/deepaksharmacs19/FitnessApp/assets/78652972/148192a1-78ae-4e6b-9f39-775840e5dc0b)
 
 Enter the trainer's first name, last name, and location in the modal that appears.
-![Screenshot (432)](https://github.com/deepaksharmacs19/FitnessApp/assets/78652972/8ed90d9d-f01b-4856-8525-46168876a7f2)
-
+![Screenshot (431)](https://github.com/deepaksharmacs19/FitnessApp/assets/78652972/148192a1-78ae-4e6b-9f39-775840e5dc0b)
     
 Click the "Add Trainer" button in the modal.
+![Screenshot (432)](https://github.com/deepaksharmacs19/FitnessApp/assets/78652972/8ed90d9d-f01b-4856-8525-46168876a7f2)
 
    
 # Adding an Appointment
    https://github.com/deepaksharmacs19/FitnessApp/assets/78652972/8dca69f3-4e14-4570-ba64-afb65f3d4ac1  
-      ![Screenshot (428)](https://github.com/deepaksharmacs19/FitnessApp/assets/78652972/14ac71ce-1a82-42c3-9ede-5f4e2a343955)
-![Screenshot (429)](https://github.com/deepaksharmacs19/FitnessApp/assets/78652972/2cd23e54-9a28-4591-aad3-43028c299498)
+     
 
    Locate the trainer in the table to whom you want to add an appointment.
-
    
 Click the "Add Appointment" button in the corresponding row.
 
    
 Select the appointment date and time in the modal that appears.
+ ![Screenshot (428)](https://github.com/deepaksharmacs19/FitnessApp/assets/78652972/14ac71ce-1a82-42c3-9ede-5f4e2a343955)
 
     
 Click the "Add Appointment" button in the modal.
+![Screenshot (429)](https://github.com/deepaksharmacs19/FitnessApp/assets/78652972/2cd23e54-9a28-4591-aad3-43028c299498)
 
    
 # Editing Trainer Information
@@ -55,7 +54,7 @@ Click the "Add Appointment" button in the modal.
    or  
    
 Update the trainer's information directly in the table.
-![Screenshot (436)](https://github.com/deepaksharmacs19/FitnessApp/assets/78652972/4348abf4-afa6-4aa4-ace1-fac4f447811e)
+![Screenshot (433)](https://github.com/deepaksharmacs19/FitnessApp/assets/78652972/fb241c83-19a3-4a86-9ded-3d8c167d396c)
 
     
 Click the "Save" button to save the changes.
